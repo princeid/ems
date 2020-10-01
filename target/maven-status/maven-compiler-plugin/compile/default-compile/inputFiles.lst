@@ -1,0 +1,15 @@
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/services/EmployeeService.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/models/Role.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/controllers/LoginController.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/controllers/UserRegistrationController.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/services/UserService.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/dto/UserRegistrationDto.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/models/Employee.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/controllers/EmployeeController.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/serviceImpl/UserServiceImpl.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/config/SecurityConfiguration.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/repositories/EmployeeRepository.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/serviceImpl/EmployeeServiceImpl.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/repositories/UserRepository.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/EmployeeManagementSystemApplication.java
+/Users/mac/IdeaProjects/spring-projects2/EMS/src/main/java/com/codeprince/employeemanagementsystem/models/User.java
